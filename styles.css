@@ -1,14 +1,15 @@
 body {
-	background-color:white;
+	background-color:black;
 	text-align:center;
+}
 p {
-	color:black;
+	color:blue;
 }
 
 p#egg{
 	color:yellow;
 }
 p.brandon{
-	color:blue;
+	color:red;
 }
 
